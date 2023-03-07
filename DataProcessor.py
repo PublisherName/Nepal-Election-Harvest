@@ -1,6 +1,5 @@
 import pandas as pd
 import os
-import hashlib
 
 class ElectionDataGroup():
 
